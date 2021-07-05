@@ -1,0 +1,3 @@
+[submodule "roll20-onepager"]
+	path = roll20-onepager
+	url = https://github.com/WFGTurtle/roll20-onepager.git

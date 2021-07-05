@@ -1,3 +1,5 @@
-# wfgturtle.github.io
+# WFGTurtle's Github Pages site
+This is just intendend as a place for hosting small personal projects.
 
-Almost certainly just a site to host small personal projects I want to be sharable
+Current projects hosted here:
+ - [Roll20 Onepager Bookmarklet](roll20-onepager/)
